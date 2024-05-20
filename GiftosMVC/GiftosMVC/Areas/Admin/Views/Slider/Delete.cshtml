@@ -1,0 +1,11 @@
+﻿@model Slider
+<form asp-action="DeletePost" method="post" enctype="multipart/form-data">
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Title</h5>
+            <a asp-action="Index" class="card-link">Go Back</a>
+            <input asp-for="@Model.Id" hidden value="@Model.Id" />
+            <button type="submit" class="card-link">Delete</button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,737 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|solutionrelative:core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|solutionrelative:core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\business\\services\\concrates\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|solutionrelative:business\\services\\concrates\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|solutionrelative:business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\data\\repositoryconcrates\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|solutionrelative:data\\repositoryconcrates\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\data\\repositoryconcrates\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|solutionrelative:data\\repositoryconcrates\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|solutionrelative:business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\business\\exceptions\\imagelengthexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|solutionrelative:business\\exceptions\\imagelengthexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\business\\exceptions\\imagecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|solutionrelative:business\\exceptions\\imagecontentexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|solutionrelative:core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\business\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|solutionrelative:business\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\core\\repositoryabstracts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A78F0D01-B169-4D43-9E7C-A4C2CB35D999}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8CC49B2-3036-4BAC-A7FE-3965B102DE3D}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\giftosmvc\\giftosmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{38EC32D9-681B-49AF-867B-434993874E30}|GiftosMVC\\GiftosMVC.csproj|solutionrelative:giftosmvc\\giftosmvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\data\\migrations\\20240519153128_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240519153128_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|c:\\users\\nazani\\source\\repos\\giftosmvc\\data\\migrations\\20240518205010_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78B9EA2-6624-44AB-A134-0A91138349B5}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240518205010_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberRegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\ViewModels\\MemberRegisterVM.cs",
+              "RelativeDocumentMoniker": "GiftosMVC\\ViewModels\\MemberRegisterVM.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\ViewModels\\MemberRegisterVM.cs",
+              "RelativeToolTip": "GiftosMVC\\ViewModels\\MemberRegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:39:36.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T05:27:55.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GiftosMVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GiftosMVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:10:24.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:39:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:57:15.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Program.cs",
+              "RelativeDocumentMoniker": "GiftosMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Program.cs",
+              "RelativeToolTip": "GiftosMVC\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:16:23.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T19:48:09.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\ViewModels\\AdminLoginVM.cs",
+              "RelativeDocumentMoniker": "GiftosMVC\\ViewModels\\AdminLoginVM.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\ViewModels\\AdminLoginVM.cs",
+              "RelativeToolTip": "GiftosMVC\\ViewModels\\AdminLoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:36:51.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:29:11.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:21:35.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAALsAAAAAAAAAAAAcwM0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:21:44.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAcwHYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:20:22.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:19:30.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAewAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:17:16.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T19:46:00.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240519153128_adduser.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\Migrations\\20240519153128_adduser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240519153128_adduser.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\Migrations\\20240519153128_adduser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240519153128_adduser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:31:29.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T12:23:08.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GiftosMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GiftosMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:46:04.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T12:22:37.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Services\\Concrates\\SliderService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concrates\\SliderService.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Services\\Concrates\\SliderService.cs",
+              "RelativeToolTip": "Business\\Services\\Concrates\\SliderService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:54:31.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:07:30.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T19:59:56.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:00:29.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T12:20:02.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T12:22:54.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\RepositoryConcrates\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcrates\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\RepositoryConcrates\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcrates\\GenericRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:03:02.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\RepositoryConcrates\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcrates\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\RepositoryConcrates\\SliderRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcrates\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:50:47.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:20:38.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:07:04.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:00:30.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ImageLengthException.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Exceptions\\ImageLengthException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\ImageLengthException.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Exceptions\\ImageLengthException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\ImageLengthException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:57:01.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ImageContentException.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Exceptions\\ImageContentException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\ImageContentException.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Exceptions\\ImageContentException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\ImageContentException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:55:46.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstracts\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstracts\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:51:56.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:48:43.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:58:08.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Core\\Models\\Slider.cs",
+              "RelativeToolTip": "Core\\Models\\Slider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:44:41.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240518205010_1.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\Migrations\\20240518205010_1.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240518205010_1.cs",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\Migrations\\20240518205010_1.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240518205010_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:50:10.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T20:49:14.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T20:11:41.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "GiftosMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\appsettings.json",
+              "RelativeToolTip": "GiftosMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T20:13:25.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "GiftosMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "GiftosMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-18T20:19:22.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T20:21:09.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GiftosMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GiftosMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T19:45:37.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GiftosMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\GiftosMVC.csproj",
+              "RelativeDocumentMoniker": "GiftosMVC\\GiftosMVC.csproj",
+              "ToolTip": "C:\\Users\\Nazani\\source\\repos\\GiftosMVC\\GiftosMVC\\GiftosMVC.csproj",
+              "RelativeToolTip": "GiftosMVC\\GiftosMVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T19:52:54.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
